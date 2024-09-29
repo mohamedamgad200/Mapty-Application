@@ -23,7 +23,7 @@ The following diagram showcases the architecture of the Mapty application:
 
 The workflow of the application can be visualized in the following flowchart:
 
-![Mapty Flowchart](./Mapty-flowchart.png)
+![Mapty Flowchart](15-Mapty/Mapty-flowchart.png)
 
 ## Classes and Methods
 
