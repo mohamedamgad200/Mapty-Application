@@ -17,7 +17,7 @@ Mapty is structured using OOP principles, with key classes and methods to manage
 
 The following diagram showcases the architecture of the Mapty application:
 
-![Mapty Architecture](./Mapty-architecture-final.png)
+![Mapty Architecture](15-Mapty/Mapty-architecture-part-1.png)
 
 ### Workflow Flowchart
 
